@@ -1,2 +1,2 @@
-..\\..\\bin\\a.exe
+..\\bin\\a.exe
 pause
